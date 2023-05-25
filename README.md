@@ -3,7 +3,7 @@
 🎇Objetivo
 Seu objetivo é encontrar todos os itens representados por "@". Assim que todos os itens forem coletados, você completará a fase.
 
-📕 História: Aventura no Buraco Profundo é um emocionante jogo 2D que conta a história do personagem principal, Girottinho. Nessa divertida jornada, Girottinho acidentalmente cai em um buraco ao tentar roubar o café de Casseb, seu amigo.
+📕 História: Aventura numa dungeon esquecida. É um jogo que conta a história do personagem principal, Girottinho. Nessa divertida jornada, Girottinho acidentalmente cai em um buraco ao tentar roubar o café de Casseb, seu amigo.
 
 Girottinho é um pequeno aventureiro corajoso e audacioso, conhecido por sua grande paixão por café. Ele sempre está em busca de aventuras emocionantes. No entanto, sua última o levou a um desafio inesperado.
 
