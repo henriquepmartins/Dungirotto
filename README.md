@@ -1,7 +1,7 @@
 # Dungirotto
 
 🎇Objetivo
-Seu objetivo é encontrar todos os itens representados por "@". Assim que todos os itens forem coletados, você completará o jogo.
+Seu objetivo é encontrar todos os itens representados por "@". Assim que todos os itens forem coletados, você completará a fase.
 
 📕 História: Aventura no Buraco Profundo é um emocionante jogo 2D que conta a história do personagem principal, Girottinho. Nessa divertida jornada, Girottinho acidentalmente cai em um buraco ao tentar roubar o café de Casseb, seu amigo.
 
