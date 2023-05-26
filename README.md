@@ -35,4 +35,6 @@ Você começa o jogo com 100 pontos de vida. Cada vez que o personagem pisar nos
 Teletransporte (TP): Algumas áreas do mapa possuem portais de teletransporte representados por ">" e "<". Ao ativar a habilidade especial pressionando a tecla "I" e pisar em um portal, você será transportado para outro local do mapa.
 Invulnerabilidade: Em determinadas situações, será possível ativar a habilidade especial de invulnerabilidade pressionando a tecla "I". Isso permitirá que você atravesse os espinhos sem sofrer danos por um tempo limitado.
 
+Devs: Henrique Pereira e Carlos Eduardo Teixeira.
+
 Comece agora a jogar DUNGIROTTO!
